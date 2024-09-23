@@ -1,0 +1,11 @@
+Steps & Operations performed:
+1. Data Import & connectivity
+2. Data Transformation
+	-Removing duplicates
+	-Replacing values
+	-Changing data types
+	-Filtering rows
+3. Visualization and Reporting
+	-Custom visualizations
+	-Conditional formatting
+	-Slicers and filters
